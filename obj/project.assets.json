@@ -5846,19 +5846,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Abi\\.nuget\\packages\\": {}
+    "C:\\Users\\Mustermann\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abi\\source\\repos\\cognify\\cognify-csharp-geocoding\\GeocodingApi\\GeocodingApi.csproj",
+      "projectUniqueName": "C:\\Users\\Mustermann\\source\\repos\\my-web-projects\\my-asp-dot-net-projects\\GeocodingApi.csproj",
       "projectName": "GeocodingApi",
-      "projectPath": "C:\\Users\\Abi\\source\\repos\\cognify\\cognify-csharp-geocoding\\GeocodingApi\\GeocodingApi.csproj",
-      "packagesPath": "C:\\Users\\Abi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abi\\source\\repos\\cognify\\cognify-csharp-geocoding\\GeocodingApi\\obj\\",
+      "projectPath": "C:\\Users\\Mustermann\\source\\repos\\my-web-projects\\my-asp-dot-net-projects\\GeocodingApi.csproj",
+      "packagesPath": "C:\\Users\\Mustermann\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mustermann\\source\\repos\\my-web-projects\\my-asp-dot-net-projects\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Abi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mustermann\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5919,7 +5923,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
